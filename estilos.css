@@ -1,0 +1,29 @@
+body {
+            font-family: Arial, sans-serif;
+            margin: 100px;
+            background-color: #192a51;
+        }
+        .calculadora {
+            background: #F5E6E8;
+            padding: 100px;
+            border-radius: 50px;
+            max-width: 600px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            margin: 0 auto; /* Centra horizontalmente */
+            text-align: center; /* Centra el texto internamente */
+            font-size: 36px;
+            color:#192a51;         
+        }
+        input, select, button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            font-size: 16px;
+        }
+        #resultado {
+            margin-top: 20px;
+            font-weight: bold;
+            font-size: 28px;
+            color: orange;
+        }
+        
